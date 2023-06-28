@@ -1,4 +1,4 @@
-# amitchaudhary008
+# amitchaudhary08
 
 👋 Hello there! I'm Amit Chaudhary, a passionate frontend developer with a keen eye for creating engaging and user-friendly web experiences.
 
