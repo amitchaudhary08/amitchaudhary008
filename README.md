@@ -14,4 +14,8 @@
 
 🔗 Contact me : @https://www.linkedin.com/in/amit-chaudhary-846954258/
               Let's build remarkable web experiences together...
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,node,express,mongodb" />
+  </a>
+</p>
